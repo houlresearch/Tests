@@ -1,5 +1,5 @@
 ![Shuang Song](https://raw.githubusercontent.com/houlresearch/Tests/main/songshuang.jpg)
-class of 2019.
+PhD student. Class of 2019.
 ***
 **self introduction:**  
 I am interested in statistics, statistical genetics and genomics, Bayesian methodology, polygenic risk prediction and heritability estimation.  
