@@ -1,5 +1,6 @@
 ![Nayang Shan](https://raw.githubusercontent.com/houlresearch/Tests/main/shannayang.jpg)  
-Graduated in 2022.  
+Previous PhD student. Graduated in 2022.  
+Current position: assistant professor, School of Statistics, Capital University of Economics and Business, Beijing.  
 ***
 **self introduction:**  
 研究兴趣：  
